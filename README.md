@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Kumar Singh</h1>
+<h1 align="center">Hi 👋, Harshit Kumar Singh this side! </h1>
 <h3 align="center">DSA | Aspiring Full Stack Developer | Primarily focused towards Problem Solving</h3>
 
 <img align="right" alt="Coding" width="400" src="https://nordcloud.com/wp-content/uploads/2023/02/FAA-Aviation-400-%C3%97-400px-1.gif">
