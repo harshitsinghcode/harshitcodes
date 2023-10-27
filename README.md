@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [hype](https://github.com/harshitsinghcode/hype)
 
-- 🌱 I’m currently learning **JavaScript | MERN Stack**
+- 🌱 I’m currently learning **NextJS**
 
 - 🤝 I’m looking for help with [Saptarishi - An Ai Chatbot](https://github.com/harshitsinghcode/Saptarishi)
 
