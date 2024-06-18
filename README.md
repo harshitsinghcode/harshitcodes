@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsinghcode&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsinghcode" /> </p>
 
-- 🔭 I’m currently working on [hype](https://github.com/harshitsinghcode/hype)
+- 🔭 I’m currently working on [2d-3d recontruction of human pose using photogrammetry]
 
 - 📝 I don't regularly write articles on [hershies.tech](hershies.tech)
 
