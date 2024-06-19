@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on [2d-3d recontruction of human pose using photogrammetry]
 
-- 📝 I don't regularly write articles on (https://hershiestech.blogspot.com/)
+- 📝 I don't regularly write articles on (hershiestech.blogspot.com/)
 
 - ⚡ Fun fact **You're Technically "stalking" me :)**
