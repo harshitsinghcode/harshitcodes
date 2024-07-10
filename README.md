@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsinghcode&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsinghcode" /> </p>
 
-- 🔭 I’m currently working on [2d-3d recontruction of human pose using photogrammetry]
+- 🔭 I’m currently working on [Scaling of objects using IMU based environment]
 
 - 📝 I don't regularly write articles on (https://hershiestech.blogspot.com/)
 
